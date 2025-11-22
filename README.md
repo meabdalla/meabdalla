@@ -33,28 +33,6 @@ I am passionate about bridging the gap between hardware and artificial intellige
 ![WiFi](https://img.shields.io/badge/WiFi-D32F2F?style=for-the-badge&logo=wi-fi&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meabdalla&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meabdalla&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **STM32N6 Object Detection** | Guide complet (FR) pour déployer YOLO sur le NPU du STM32N6. | `STM32Cube.AI`, `YOLO`, `C` |
-| **IoT GPS Tracker** | Système de traçage GPS autonome avec stockage GPX sur carte SD. | `ESP32`, `C++`, `SPI`, `GPS` |
-| **TinyML Object Detection** | CNN léger entraîné avec TensorFlow et converti pour microcontrôleurs. | `Python`, `TensorFlow Lite`, `Keras` |
-| **FPGA UART Controller** | Contrôleur UART (Tx/Rx) robuste et synthétisable en VHDL. | `VHDL`, `Cyclone V`, `Quartus II` |
-
----
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdalla-aae)
 
