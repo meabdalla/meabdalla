@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abdalla 👋
 
 ### Future Embedded Systems & AI Engineer
 *Master 2 ESTEL Student at Université Côte d'Azur*
@@ -10,6 +10,7 @@ I am passionate about bridging the gap between hardware and artificial intellige
 ### 🛠️ Technical Arsenal
 
 #### 🧠 Embedded AI & Machine Learning
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
@@ -26,7 +27,6 @@ I am passionate about bridging the gap between hardware and artificial intellige
 #### ⚡ Hardware Design & FPGA
 ![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=vhdl&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-FF0000?style=for-the-badge&logo=xilinx&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 
 #### 📡 IoT & Connectivity
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
@@ -48,15 +48,14 @@ I am passionate about bridging the gap between hardware and artificial intellige
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project Name 1]** | Real-time object detection on STM32 using YOLOv8. | `STM32`, `C++`, `TensorFlow Lite` |
-| **[Project Name 2]** | FPGA-based digital signal processing accelerator. | `VHDL`, `Xilinx Artix-7` |
-| **[Project Name 3]** | IoT Environmental Monitor with Zephyr RTOS. | `Zephyr`, `MQTT`, `ESP32` |
+| **IoT GPS Tracker** | Système de traçage GPS autonome avec stockage GPX sur carte SD. | `ESP32`, `C++`, `SPI`, `GPS` |
+| **TinyML Object Detection** | CNN léger entraîné avec TensorFlow et converti pour microcontrôleurs. | `Python`, `TensorFlow Lite`, `Keras` |
+| **FPGA UART Controller** | Contrôleur UART (Tx/Rx) robuste et synthétisable en VHDL. | `VHDL`, `Artix-7`, `ModelSim` |
 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdalla-aae)
 
 <!--
 **Action Items:**
