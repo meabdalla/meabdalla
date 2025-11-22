@@ -1,4 +1,4 @@
-# Hi there, I'm Abdalla 👋
+# Abdalla
 
 ### Future Embedded Systems & AI Engineer
 *Master 2 ESTEL Student at Université Côte d'Azur*
