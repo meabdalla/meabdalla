@@ -48,6 +48,7 @@ I am passionate about bridging the gap between hardware and artificial intellige
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **STM32N6 Object Detection** | Guide complet (FR) pour déployer YOLO sur le NPU du STM32N6. | `STM32Cube.AI`, `YOLO`, `C` |
 | **IoT GPS Tracker** | Système de traçage GPS autonome avec stockage GPX sur carte SD. | `ESP32`, `C++`, `SPI`, `GPS` |
 | **TinyML Object Detection** | CNN léger entraîné avec TensorFlow et converti pour microcontrôleurs. | `Python`, `TensorFlow Lite`, `Keras` |
 | **FPGA UART Controller** | Contrôleur UART (Tx/Rx) robuste et synthétisable en VHDL. | `VHDL`, `Cyclone V`, `Quartus II` |
