@@ -38,8 +38,8 @@ I am passionate about bridging the gap between hardware and artificial intellige
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meabdalla&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meabdalla&layout=compact&theme=radical" height="180" alt="languages graph" />
 </div>
 
 ---
@@ -57,10 +57,4 @@ I am passionate about bridging the gap between hardware and artificial intellige
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdalla-aae)
 
-<!--
-**Action Items:**
-1. Replace `[Your Name]` with your actual name.
-2. Replace `[YOUR_USERNAME]` in the stats URLs with your GitHub username.
-3. Replace `[YOUR_LINKEDIN]` and `[YOUR_EMAIL]` with your contact info.
-4. Update the Featured Projects table with links to your actual repositories.
--->
+
