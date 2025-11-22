@@ -50,7 +50,7 @@ I am passionate about bridging the gap between hardware and artificial intellige
 | :--- | :--- | :--- |
 | **IoT GPS Tracker** | Système de traçage GPS autonome avec stockage GPX sur carte SD. | `ESP32`, `C++`, `SPI`, `GPS` |
 | **TinyML Object Detection** | CNN léger entraîné avec TensorFlow et converti pour microcontrôleurs. | `Python`, `TensorFlow Lite`, `Keras` |
-| **FPGA UART Controller** | Contrôleur UART (Tx/Rx) robuste et synthétisable en VHDL. | `VHDL`, `Artix-7`, `ModelSim` |
+| **FPGA UART Controller** | Contrôleur UART (Tx/Rx) robuste et synthétisable en VHDL. | `VHDL`, `Cyclone V`, `Quartus II` |
 
 ---
 
